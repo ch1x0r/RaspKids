@@ -1,6 +1,7 @@
 ace-of-penguins
 apache2
 aptitude
+asciiquarium
 aspell
 aspell-en
 aspell-es
@@ -8,6 +9,7 @@ audacious
 biogenesis
 blinken
 build-essential
+cowsay
 childsplay
 childsplay-alphabet-sounds-es
 cups
@@ -17,10 +19,8 @@ dia-gnome
 dia-shapes
 evince
 extremetuxracer
-firmware-b43legacy-installer
-firmware-b43-installer
-flashplugin-downloader
-flashplugin-installer
+figlet
+fortune
 galculator
 gamine
 gamine-data
@@ -71,6 +71,7 @@ libreoffice-mysql-connector
 libreoffice-pdfimport
 libreoffice-templates
 libreoffice-writer
+lolcat
 marble
 mysql-common
 mysql-server-core-5.7
@@ -97,12 +98,6 @@ tuxpuck
 tuxtype
 tuxtype-data
 tuxtype-data-nonfree
-ubuntu-edu-preschool
-ubuntu-edu-primary
-ubuntu-edu-secondary
-ubuntu-edu-tertiary
 vlc
 wamerican
 wspanish
-ubuntu-keyboard-english
-ubuntu-keyboard-spanish
