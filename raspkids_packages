@@ -17,10 +17,6 @@ dia-gnome
 dia-shapes
 evince
 extremetuxracer
-firmware-b43legacy-installer
-firmware-b43-installer
-flashplugin-downloader
-flashplugin-installer
 galculator
 gamine
 gamine-data
@@ -45,11 +41,6 @@ ktouch-data
 kturtle
 kwordquiz
 laby
-language-pack-en
-language-pack-en-base
-language-pack-gnome-es
-language-pack-gnome-es-base
-language-pack-kde-es
 libreoffice
 libreoffice-base
 libreoffice-base-core
@@ -97,12 +88,6 @@ tuxpuck
 tuxtype
 tuxtype-data
 tuxtype-data-nonfree
-ubuntu-edu-preschool
-ubuntu-edu-primary
-ubuntu-edu-secondary
-ubuntu-edu-tertiary
 vlc
 wamerican
 wspanish
-ubuntu-keyboard-english
-ubuntu-keyboard-spanish
