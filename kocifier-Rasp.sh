@@ -13,7 +13,7 @@ sudo apt-get -y update && sudo apt-get -y upgrade
 
 
 function raspbian_install_software {
-  software=( $(curl -sSL https://raw.githubusercontent.com/kidsoncomputers/kocifier/master/ubermix_packages) )
+  software=( $(curl -sSL https://raw.githubusercontent.com/Ch1x0r/kocifier/raspkids_dev/raspkids_packages) )
 
   # change this link to the raspkids_packages
 

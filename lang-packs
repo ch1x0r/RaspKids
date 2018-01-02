@@ -1,0 +1,19 @@
+gnome-es
+
+dpkg (>= 1.10.27ubuntu1)
+Debian package management system
+language-pack-es
+translation updates for language Spanish; Castilian
+language-pack-gnome-es-base (>= 1:14.04+20140410)
+GNOME translations for language Spanish; Castilian
+
+language-pack-en-base
+dpkg (>= 1.10.27ubuntu1)
+Debian package management system
+language-pack-en (>= 1:14.04+20140410)
+translation updates for language English
+locales (>= 2.3.6)
+common files for locale support
+firefox-locale-en
+English language pack for Firefox
+
