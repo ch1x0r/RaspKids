@@ -1,0 +1,15 @@
+ new debian package, version 2.0.
+ size 2622 bytes: control archive=581 bytes.
+     517 bytes,    12 lines      control              
+     161 bytes,     2 lines      md5sums              
+ Package: raspkids-pre
+ Source: raspkids-koc
+ Version: 0.1.1	
+ Architecture: arm64
+ Maintainer: Marcia Wilbur <admin@gnulinux.io>
+ Installed-Size: 45
+ Recommends: blinken, gamine, gcompris, kanagram, khangman, klettres, ktuberling, pairs, tuxpaint
+ Section: metapackages
+ Priority: optional
+ Description: Preschool Ed starter kit for Kids on Computers
+  This package depends on other projects. We want to recognize the KDE educational community.
