@@ -53,7 +53,7 @@ language-pack-kde-es
 libreoffice
 libreoffice-base
 libreoffice-base-core
-libreoffice-calc
+libreoffice-calc - WD - Libreoffice 5. 
 libreoffice-common
 libreoffice-core
 libreoffice-dmaths
@@ -75,26 +75,27 @@ marble
 mysql-common
 mysql-server-core-5.7
 onboard
+pairs - WD - MW -Tested fun... but crashed out.
 p7zip
 php7.0
 php7.0-mysql
 php7.0-mcrypt
 php7.0-common
 php7.0-cli
-pychess
-pysiogame
-ri-li
+pychess William Davila - This is an online chess server
+pysiogame - WD Crashed on raspkids
+ri-li - WD -Train simulator - fun for kids if we have instructions
 scratch
 stellarium
 stellarium-data
-supertux
+supertux - WD - supertux2 crashed 384% CPU
 tuxmath
 tuxpaint
 tuxpaint-data
 tuxpaint-plugins
 tuxpaint-stamps
-tuxpuck
-tuxtype
+tuxpuck - MW and WD - "awesome air hockey game -wd" MW - I never lose... whoa. Must continue testing!!!! :)
+tuxtype - WD - Basically a good typing simulator
 tuxtype-data
 tuxtype-data-nonfree
 ubuntu-edu-preschool
