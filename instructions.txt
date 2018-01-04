@@ -1,4 +1,10 @@
 Start with - Latest version of Raspbian
+
+v 0.2-1
+
+Partition - 1 is 9Gb... one is 7
+
+dd Raspbian 4.whateverGb image to the 16gb drive
 Then... with script update and upgrade
 Then add packages with the script
 Then add edu packages
