@@ -1,0 +1,12 @@
+Start with - Latest version of Raspbian
+Then... with script update and upgrade
+Then add packages with the script
+Then add edu packages
+Add wallpaper
+change menus and panels
+expand
+DONE....
+
+kid tested
+mother approved
+
