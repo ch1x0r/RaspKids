@@ -31,14 +31,18 @@ function remove_keyboard_packages {
 function raspbian_kocify {
   raspbian_update_packages
   raspbian_install_software
-  # Change the wallpaper using commands
-  # Install Kids Ruby
-  # Change regional formats
-  # Configure input methods
-  # remove_keyboard_packages
-  # install then remove keyboard packages?
-  # locales - Change the timezone to Mexico City
-  # Install Language Pack support for Spanish
+  # R:Change the wallpaper using commands
+  # R:Install Kids Ruby
+  # R:Change regional formats 
+  # R:locales - Change the timezone to Mexico City = dpkg-reconfigure locals es-MX  manually or add to script but a manual selection - find alternate
+  # R:Configure input methods
+  # R:remove_keyboard_packages
+  # R:install then remove keyboard packages?
+  # A:Does the ubuntu-keyboard-english or ubuntu-keybord-spanish solve this? (list of packages)
+  # R:Install Language Pack support for Spanish
+  # A:language-pack-es-base language-pack-gnome-es language-pack-kde-es (list of packages)
+  
+  
 }
 
 ##########################
