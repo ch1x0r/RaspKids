@@ -42,7 +42,7 @@ function raspbian_kocify {
   # A: 
   
   # R:locales - Change the timezone to Mexico City = dpkg-reconfigure locals es-MX  manually or add to script but a manual selection - find alternate
-  # A:
+  # A: Yes it's all spanish now.
   
   # R:Configure input methods
   # A:
